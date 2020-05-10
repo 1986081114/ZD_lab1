@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: mutable
+Version: 0.2.2
+Summary: Object class and decorator for dynamic class props from dict, JSON or command-line input
+Home-page: https://github.com/nardeas/mutable
+Author: Andreas Urbanski
+Author-email: urbanski.andreas@gmail.com
+License: MIT
+Download-URL: https://github.com/nardeas/mutable/archive/0.2.2.tar.gz
+Description: UNKNOWN
+Keywords: mutable,json,class,dynamic,props,fields
+Platform: UNKNOWN
